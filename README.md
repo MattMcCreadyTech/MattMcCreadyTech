@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MattMcCreadyTech
-- 👀 I’m interested in technology, gaming, photography, and anything art-related. 
+- 👀 I’m interested in technology, gaming, photography, as well as any other things art-related. 
 - 🌱 I’m currently pursuing a Bachelor of Science degree in Computer Science with a concentration on cyber security
 - 📫 How to reach me mattmccready@proton.me
 <!---
